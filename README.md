@@ -54,12 +54,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-<!-- - Flexbox
-- CSS Grid -->
 - Mobile-first workflow
-
-
-
 
 ### What I learned
 
