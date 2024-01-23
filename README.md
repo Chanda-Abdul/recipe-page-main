@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [here](https://github.com/Chanda-Abdul/recipe-page-main)
+- Live Site URL: [here](https://silly-caramel-b06573.netlify.app/)
 
 ## My process
 
@@ -54,8 +54,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+<!-- - Flexbox
+- CSS Grid -->
 - Mobile-first workflow
 
 
